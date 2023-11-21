@@ -1,16 +1,13 @@
-# flutter_application_kawanlama
+Nomor 1 dan 2 ada di file main.dart
 
-A new Flutter project.
+- Bisa pilih tanggal dan NIK-Nama
+- Bisa add tanggal dan Nama ke tabel dibawahnya
 
-## Getting Started
+Nomor 3 dan 4 ada di file table.dart
 
-This project is a starting point for a Flutter application.
+- Sesuai dengan soal, belum sempet passing data dari main.dart biar tabel di table.dart keupdate juga
 
-A few resources to get you started if this is your first Flutter project:
+Semoga bisa lulus seleksi intership! ^ ^
+, Thank you!
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+, Jonathan Woen
